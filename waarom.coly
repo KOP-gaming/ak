@@ -1,0 +1,17 @@
+macro HTMLOutputFile { "../ak/waarom.html" }
+include "htmlgen.coly"
+include "macro.coly"
+
+
+initHTML
+
+"style.css" linkCSS
+
+"html"tag
+"header"tag
+"header"cTag
+"body"tag
+    "Ik heb gekozen om te schrijven over pretparken omdat ik al een tijdje benieuwd ben naar wat pretparken doen en hoe slecht pretparken zijn voor het mileu"p
+
+"body"cTag
+"html"cTag

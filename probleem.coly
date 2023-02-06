@@ -1,4 +1,4 @@
-macro HTMLOutputFile { "../ak/waarom.html" }
+macro HTMLOutputFile { "../ak/probleem.html" }
 include "htmlgen.coly"
 include "macro.coly"
 

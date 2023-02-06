@@ -8,6 +8,13 @@ initHTML
 "style.css" linkCSS
 
 "html" tag
+    "header"tag
+        "a href='index.html'" tag
+        "Home" button
+        'a' cTag
+ "a href='waarom.html'"tag
+        'a' cTag
+    "header"cTag
     "body" tag
         "Luchtvervuiling"hb
         "Volgens wikipedia is er sprake van luchtvervuiling als er schadelijke of overmatige hoeveelheden stoffen in de troposfeer van de aarde worden geintroduceerd. Volgens de GGD (gemeentelijk of gemeenschapelijke gezondheids dienst) bestaat luchtvervuiling uit stoffen zoals fijnstof, ultrafijstof, stikstofdioxide en ozon."p

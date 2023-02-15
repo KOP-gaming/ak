@@ -1,0 +1,44 @@
+circa 3.2 mijoen bezoekers per jaar
+
+73% komt met de auto
+
+ongeveer 3,5 personen per auto
+
+3200000 : 100 * 73 = 2336000
+
+2336000 = het aantal mensen dat met de auto komt
+
+2336000 : 3.5 = het aantal auto's = (omhoog afgerond omdat er geen halve personen bestaan)667429
+
+6500 bussen 
+
+mensen zijn bereid maximaal 1,5 uur te reizen naar de efteling
+
+volgens de kaart is het verste weg maar nogsteeds binnen 1,5 uur rijden Amsterdam
+
+van amsterdam naar de efteling is 105KM
+
+co2
+de gemiddelde uitstoot van benzine auto is 210kg per 1000 km of 0,21kg per km
+de gemiddelde uitstoot van een diesel auto is 210kg per 1000km of 0,21kg  per km
+de gemiddlede uitstoot van een lpg auto is 200kg per 1000km of 0,20kg per km
+de gemiddlede uitstoot van een electrische auto is 110kg per 1000km of 0,11kg per km
+de gemiddelde uitstoot van een diesel hybride auto is 160kg per 100km of 0,16kg per km
+de gemiddelde uitstoot van een benzine hybride auto is 170kg per 1000km of 0,17kg per km
+
+het gemiddelde van alle auto's is dus
+
+0,21
+0,21
+0,20
+0,11
+0,16
+0,17+
+-------
+1,06
+
+1,06 : 6 = afgerond 0,18kg per km
+
+dat is dus een uitstoot van 0,18 * 105 (uitgaande van amximale reistijd) = 18,9kg co2 per auto 
+
+18,9 * 667429 (het aantal auto's eerder berekend)= 12614408.1kg co2 (alle autos die in 1 jaar naar de efteling gaan)

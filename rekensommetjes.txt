@@ -61,3 +61,14 @@ dat is 99km weg
 
 Ponypark Slagharen
 
+Bezoekersaantal 1,2 miljoen
+ook voor slagharen konden wij niet vinden hoeveel mensen er met de autop gaan dus hanteren we ook hier de 73% 3,5 personen per auto
+binnen de 1,5 uur circel rond slagharen ligt brussel het verste weg 
+brussel ligt op 297km afstand
+
+1200000 : 100 * 73 = bezoekers met de auto = 876000
+876000 : 3,5 = aantal auto' = 250285.714286
+
+de uitstootberekening blijft hetzelfde
+297 * 0,18 = 53,46
+53,46 * 250285.714286 = kg co2 totaal = 13380274.2857kg
